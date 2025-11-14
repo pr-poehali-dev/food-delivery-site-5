@@ -66,7 +66,7 @@ export default function Index() {
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
             <Icon name="UtensilsCrossed" size={28} className="text-primary" />
-            <span className="text-2xl font-bold">FoodExpress</span>
+            <span className="text-2xl font-bold">FoodSperm</span>
           </div>
           <nav className="hidden md:flex gap-6">
             <a href="#menu" className="text-sm font-medium hover:text-primary transition-colors">Меню</a>
@@ -363,7 +363,7 @@ export default function Index() {
                     <Icon name="Mail" size={28} className="text-primary" />
                   </div>
                   <h3 className="font-semibold text-lg mb-2">Email</h3>
-                  <p className="text-muted-foreground">info@foodexpress.ru</p>
+                  <p className="text-muted-foreground">info@foodsperm.ru</p>
                 </div>
                 <div className="text-center">
                   <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mx-auto mb-4">
@@ -383,9 +383,9 @@ export default function Index() {
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-2">
               <Icon name="UtensilsCrossed" size={24} className="text-primary" />
-              <span className="text-xl font-bold">FoodExpress</span>
+              <span className="text-xl font-bold">FoodSperm</span>
             </div>
-            <p className="text-muted-foreground text-sm">© 2024 FoodExpress. Все права защищены.</p>
+            <p className="text-muted-foreground text-sm">© 2024 FoodSperm. Все права защищены.</p>
             <div className="flex gap-4">
               <Button variant="ghost" size="icon">
                 <Icon name="Instagram" size={20} />
